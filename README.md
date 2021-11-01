@@ -4,6 +4,8 @@ Project_link of google colab: https://colab.research.google.com/drive/1izZKvCRUW
 Machine Learning- Linear Regression Project
 
 Dataset used: Covid Cases data fetched by Johns Hopkins University
+https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
 
 Dataset
 
